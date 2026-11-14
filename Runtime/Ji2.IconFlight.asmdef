@@ -1,0 +1,8 @@
+{
+  "name": "Ji2.IconFlight",
+  "rootNamespace": "Ji2.IconFlight",
+  "references": [
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}

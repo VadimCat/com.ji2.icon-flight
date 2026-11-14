@@ -1,0 +1,13 @@
+{
+  "name": "com.ji2.icon-flight",
+  "version": "0.1.0",
+  "displayName": "JI2 Icon Flight",
+  "description": "Pooled uGUI service that flies sprite miniatures from a screen or world point to a HUD target along an arc, then reports the landing. No tween library required.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "author": {
+    "name": "Ji2"
+  }
+}
